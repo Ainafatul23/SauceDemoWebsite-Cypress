@@ -5,5 +5,5 @@
     "performance" : "performance_glitch_user",
     "password" : "secret_sauce",
     "invalid" : "invalid",
-    "empty" : ""
+    "empty" : "" 
 }

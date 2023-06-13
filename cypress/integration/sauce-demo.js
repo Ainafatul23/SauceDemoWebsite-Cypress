@@ -264,7 +264,7 @@ describe('Sauce Demo', () => {
     it('Verify user can click Logout', () => {
         cy.Logout()
     });
-
+ 
 
 
 })
